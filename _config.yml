@@ -10,13 +10,13 @@ sass:
 
 # Resume settings
 
-name: "Moussa Abiodoun Akanbi"
-email: "moussa@example.com"
-city: "Noisy-le-Sec"
-job: "Étudiant CDA"
-bio: "Passionne par le développement, réseaux et cybersécurité."
-github: "https://github.com/moussaakanbi4-ux"
-linkedin: "https://linkedin.com/in/AKANBIMOUSSA"
+name: "Homer J. Simpson"
+email: "homer@example.com"
+city: "Springfield"
+job: "Nuclear Safety Inspector"
+bio: "I work at the Springfield Nuclear Power Plant."
+github: "https://github.com/homer"
+linkedin: "https://linkedin.com/in/homer"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

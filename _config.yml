@@ -9,12 +9,15 @@ sass:
   style: compressed
 
 # Resume settings
-resume_name: "Homer J. Simpson"
-resume_contact_email: "homer@example.com"
-resume_contact_telephone: "555-7334"
-resume_contact_address: "742 Evergreen Terrace"
-resume_header_contact_info: "Springfield | 555-7334 | homer@example.com"
-resume_header_intro: "Version de Bob"
+
+name: "Moussa Abiodoun Akanbi"
+email: "moussa@example.com"
+city: "Noisy-le-Sec"
+job: "Étudiant CDA"
+bio: "Passionne par le développement, réseaux et cybersécurité."
+github: "https://github.com/moussaakanbi4-ux"
+linkedin: "https://linkedin.com/in/AKANBIMOUSSA"
+
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
